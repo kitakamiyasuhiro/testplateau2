@@ -199,6 +199,7 @@ body img {
   max-width: 100%;
   box-sizing: content-box;
   background-color: var(--color-canvas-default);
+  margin: 30px;
 }
 
 body code,
